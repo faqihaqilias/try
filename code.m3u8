@@ -109,8 +109,8 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="992" tvg-id="992" tvg-chno="992" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png",Channel 2 Makkah 2024 Olympics
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="993" tvg-id="993" tvg-chno="993" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png",Channel 3 Paris 2024 Olympics
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="993" tvg-id="993" tvg-chno="993" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png",Channel 3 Jazeera 2024 Olympics
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="994" tvg-id="994" tvg-chno="994" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png",Channel 4 Paris 2024 Olympics
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
