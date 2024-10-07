@@ -62,7 +62,7 @@ https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
 https://28163.live.streamtheworld.com/MINNAL_FMAAC.aac
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://aifm.rtm.gov.my/storage/app/uploads/public/610/366/55c/61036655c4ab3209025602.png",Ai FM
-http://ikim.rastream.com/ikim-ikimfm.android
+http://ikim.rastream.com/ikim-ikimfm.aac
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",Radio Klasik
 https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
@@ -95,7 +95,7 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://assets-mpa.eight.audio/media/Logo/profile_photo_1000x1000-09.jpg",8FM
-http://ikim.rastream.com/ikim-ikimfm.android.aac
+http://ikim.rastream.com/ikim-ikimfm
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
