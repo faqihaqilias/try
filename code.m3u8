@@ -58,8 +58,8 @@ https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png",Traxx FM
 https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
 
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png",Minnal FM
-https://28163.live.streamtheworld.com/MINNAL_FMAAC.aac
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://minnalfm.rtm.gov.my/storage/app/uploads/public/610/364/ead/610364eaddd37015252656.png",Perak FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC_SC
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://ikimfm.my/wp-content/uploads/2024/01/logo-ikimfm-2024-120x40.png",IKIM FM
 https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
@@ -86,13 +86,13 @@ https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01_v2.jpg",Hot FM
-https://mediaprima.rastream.com/mediaprima-hotfm
+https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",Kool 101
 https://mediaprima.rastream.com/mediaprima-koolfm
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
-https://mediaprima.rastream.com/mediaprima-flyfm
+http://stream.rcs.revma.com/q17aka9mtd3vv
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://media2.fishtank.my/stations/zayan/square_md.jpg",Zayan FM
 https://stream-eu-a.rcs.revma.com/7ww2a4tbv4uvv/64_2yvaj6nnb69x02/playlist.m3u8
