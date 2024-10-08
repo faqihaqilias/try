@@ -113,7 +113,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="994" tvg-id="994" tvg-chno="994" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png",Channel 4 Paris 2024 Olympics
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+https://190.110.99.102:8000/play/a010
 
 #EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="995" tvg-id="995" tvg-chno="995" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png",Channel 5 Paris 2024 Olympics
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
