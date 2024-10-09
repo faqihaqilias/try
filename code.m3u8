@@ -110,11 +110,11 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="993" tvg-id="993" tvg-chno="993" tvg-logo="https://yt3.googleusercontent.com/3fbjZ6CAJl7Y7ii8qo0C4VEd_zcsC3-zrB0Nw5MW--VZmga15wtwwTBmePBRAPl3vCSFRoQq1Q=s120-c-k-c0x00ffffff-no-rj",Channel 3 AlJazeera English 2024
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="994" tvg-id="994" tvg-chno="994" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png",Channel 4 AXS TV 2024
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="994" tvg-id="994" tvg-chno="994" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Channel 4 Travel & Taste 2024
+https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="995" tvg-id="995" tvg-chno="995" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png",Channel 5 Triller 2024
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="995" tvg-id="995" tvg-chno="995" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Triller_TV_Logo.svg/2560px-Triller_TV_Logo.svg.png",Channel 5 Triller 2024
 http://doubleclicktv.live:80/70376812/52663544/294382
 
-#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="996" tvg-id="996" tvg-chno="996" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png",Channel 6 RTM Asean 2024
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="996" tvg-id="996" tvg-chno="996" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png",Channel 6 RTM Asean 2024
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
