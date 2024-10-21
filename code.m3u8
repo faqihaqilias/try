@@ -106,14 +106,23 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="1009" tvg-chno="1009" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
 https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="1010" tvg-chno="1010" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png",AlHiwar TV
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="1010" tvg-chno="1010" tvg-logo="https://web.archive.org/web/20200511110222im_/http://aqsatv.ps/style/atyaf/assets/images/logo.png",Aqsa TV
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="1011" tvg-chno="1011" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png",AlHiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="1011" tvg-chno="1011" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="1012" tvg-chno="1012" tvg-logo="https://support.islamchannel.tv/images/ISLOGO.svg",Islam TV
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="1013" tvg-chno="1013" tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png",British Muslim TV
+https://live.mana2.my/BritishMuslimTv/tracks-v2a1/mono.m3u8?token=1729495778-27244e21b4c945be89a88ecea061d9d1-0-23992ffd8b678b68be737843ca0f0334&auth_key=1729495778-27244e21b4c945be89a88ecea061d9d1-0-4a7f2d663e1399ec920f35ceab92756c
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="1014" tvg-chno="1014" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
 https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="1012" tvg-chno="1012" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",Cartoon Network
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="1015" tvg-chno="1015" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",Cartoon Network
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="1013" tvg-chno="1013" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p0cxw253.jpg",BBC Kids
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="1016" tvg-chno="1016" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p0cxw253.jpg",BBC Kids
 https://jmp2.uk/sam-CA800001ZX.m3u8
