@@ -14,7 +14,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="104" tvg-chno="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",BERNAMA TV
-https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+https://youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-chno="114" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
 https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
@@ -23,7 +23,7 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11e
 https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="106" tvg-chno="106" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY=s120-c-k-c0x00ffffff-no-rj",Al-Quran Al-Kareem
-https://www.youtube.com/c/SaudiQuranTv/live
+https://youtube.com/c/SaudiQuranTv/live
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="107" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/kuickcount/jquery/main/ikim.webp",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
@@ -112,7 +112,7 @@ http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="1011" tvg-chno="1011" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png",AlHiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="1012" tvg-chno="1012" tvg-logo="https://support.islamchannel.tv/images/ISLOGO.svg",Islam TV
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="1012" tvg-chno="1012" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png",Islam TV
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="1013" tvg-chno="1013" tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png",British Muslim TV
