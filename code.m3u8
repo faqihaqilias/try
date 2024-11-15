@@ -16,8 +16,14 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11e
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji
 https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY=s120-c-k-c0x00ffffff-no-rj",Al-Quran Al-Kareem
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://makkahlive.net/images/makkah-live_s_1makkah-live_s.jpg",Makkah Live
 https://youtube.com/c/SaudiQuranTv/live
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://makkahlive.net/images/madinah-live_s_1madinah-live_s.jpg",Madina Live
+https://youtube.com/video/Kt7hKHlArl8/live
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://makkahlive.net/images/masjid-al-aqsa-live_s_1masjid-al-aqsa-live_s.jpg",Al-Aqsa Live
+https://youtube.com/channel/UC2l1w7FCuff2-h429sAUSXQ/live
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://web.archive.org/web/20200511110222im_/http://aqsatv.ps/style/atyaf/assets/images/logo.png",Aqsa TV
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
@@ -88,8 +94,14 @@ https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -103,26 +115,29 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/jTxMSRGFNpUBzEyXONIRconVr53i4px8oXFKeQsuwHE4HATOVquvJ0zYDAFpLBSLWFN-P25d0g=s900-c-k-c0x00ffffff-no-rj",Fight TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877.m3u8?X-Plex-Token=8dbMxPLdzxXLCxk1xS8o
 
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
-https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
-
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/gPq7R_IXCy7nUK6OWQIoCWqmh6vwWli31NlFKHSXkm1O_zTXd0DrYp9fogX5Y7ZQgig0qGDFiQ=s120-c-k-c0x00ffffff-no-rj",Nat Geo
-http://doubleclicktv.live/70376812/52663544/277101
-
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
+https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
-https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/RahL5NAXXxPNfrqawoIk8Qj9pYiWh3Qo3XHg4nTh22Kv-xkeF6jvw8yFv_H0bgQZXy0nBB0UOA=s900-c-k-c0x00ffffff-no-rj",Banijay Science
+https://youtube.com/channel/UCZSE95RmyMUgJWmfra9Yx1A/live
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/rRQClFwu_mhrlnloVu8pkBBGfzg5PDCY7Eq85iEv0U0WRvfv6xwyqAo7W5LXjAIKHEqkF7HOU60=s900-c-k-c0x00ffffff-no-rj",Banijay History
+https://youtube.com/channel/UCb7xZQi7F3RW7BNtR57cNnA/live
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/gPq7R_IXCy7nUK6OWQIoCWqmh6vwWli31NlFKHSXkm1O_zTXd0DrYp9fogX5Y7ZQgig0qGDFiQ=s120-c-k-c0x00ffffff-no-rj",Nat Geo Wild
+https://youtube.com/channel/UCDPk9MG2RexnOMGTD-YnSnA/live
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
 https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",Cartoon Network
-https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/eY2_hVi5ltfgsCZi8dgYQSatyMTkZMPTjgJ8IMPd3V0n7G1p7Gw5nFLnND9_N43c-bskykx4vw=s900-c-k-c0x00ffffff-no-rj",Les' Copaque Production
+https://youtube.com/channel/UCR1c65UsjpaVgcLKa7eM1tg/live
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://i.pinimg.com/736x/96/b8/06/96b80619e11558dbffb3dcec5cd4d8bf.jpg",Rico The Series
+https://youtube.com/channel/UCHzkGRP2y-3QJQWzVkHNGgg/live
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="1016" tvg-chno="1016" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p0cxw253.jpg",BBC Kids
 https://jmp2.uk/sam-CA800001ZX.m3u8
