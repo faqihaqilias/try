@@ -28,68 +28,59 @@ https://youtube.com/channel/UC2l1w7FCuff2-h429sAUSXQ/live
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://web.archive.org/web/20200511110222im_/http://aqsatv.ps/style/atyaf/assets/images/logo.png",Aqsa TV
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png",AlHiwar TV
-https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
+https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png",Islam Channel
-https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/perlis.png",Perlis FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC_SC
 
-#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://www.emanchannel.tv/app/themes/emanchannel/icons/logo.svg",Eman Channel
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/rtm-perak-fm.png",Perak FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC_SC
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era FM
+https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01_v2.jpg",Hot FM
+https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/hitz.png",HITZ FM
+https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
+http://stream.rcs.revma.com/q17aka9mtd3vv
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",Kool 101
+http://stream.rcs.revma.com/3930238mtd3vv
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png",Nasional FM
+https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png",Traxx FM
+https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",Radio Klasik
+https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
+http://stream.rcs.revma.com/z56xa78mtd3vv
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",Manis FM
+https://n01.rcs.revma.com/nzgauqq1v7zuv
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png",Sabah VFM
+https://28163.live.streamtheworld.com/SABAH_VFMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png",Sarawak FM
+https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://media2.fishtank.my/stations/zayan/square_md.jpg",Zayan FM
+https://stream-eu-a.rcs.revma.com/7ww2a4tbv4uvv/64_2yvaj6nnb69x02/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://ikimfm.my/wp-content/uploads/2024/01/logo-ikimfm-2024-120x40.png",IKIM FM
+https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://raw.githubusercontent.com/kuickcount/jquery/main/ikim.webp",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="201" tvg-chno="201" tvg-logo="https://ikimfm.my/wp-content/uploads/2024/01/logo-ikimfm-2024-120x40.png",IKIM FM
-https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="202" tvg-chno="202" tvg-logo="https://media2.fishtank.my/stations/zayan/square_md.jpg",Zayan FM
-https://stream-eu-a.rcs.revma.com/7ww2a4tbv4uvv/64_2yvaj6nnb69x02/playlist.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="203" tvg-chno="203" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
-https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="204" tvg-id="204" tvg-chno="707" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/perlis.png",Perlis FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC_SC
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="205" tvg-id="205" tvg-chno="703" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/rtm-perak-fm.png",Perak FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC_SC
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="206" tvg-id="206" tvg-chno="706" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era FM
-https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="207" tvg-chno="207" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01_v2.jpg",Hot FM
-https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="208" tvg-id="208" tvg-chno="710" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/hitz.png",HITZ FM
-https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="209" tvg-chno="209" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
-http://stream.rcs.revma.com/q17aka9mtd3vv
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="210" tvg-chno="210" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",Kool 101
-http://stream.rcs.revma.com/3930238mtd3vv
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="211" tvg-id="211" tvg-chno="701" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png",Nasional FM
-https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="212" tvg-id="212" tvg-chno="702" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png",Traxx FM
-https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="213" tvg-id="213" tvg-chno="705" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",Radio Klasik
-https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="214" tvg-chno="214" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
-http://stream.rcs.revma.com/z56xa78mtd3vv
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="215" tvg-chno="215" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",Manis FM
-https://n01.rcs.revma.com/nzgauqq1v7zuv
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="216" tvg-id="216" tvg-chno="708" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png",Sabah VFM
-https://28163.live.streamtheworld.com/SABAH_VFMAAC.aac
-
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="217" tvg-id="217" tvg-chno="709" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png",Sarawak FM
-https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -133,11 +124,23 @@ https://youtube.com/channel/UCDPk9MG2RexnOMGTD-YnSnA/live
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
 https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p0cxw253.jpg",BBC Kids
+https://jmp2.uk/sam-CA800001ZX.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moonbug2ndLogo.png/220px-Moonbug2ndLogo.png",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/eY2_hVi5ltfgsCZi8dgYQSatyMTkZMPTjgJ8IMPd3V0n7G1p7Gw5nFLnND9_N43c-bskykx4vw=s900-c-k-c0x00ffffff-no-rj",Les' Copaque Production
 https://youtube.com/channel/UCR1c65UsjpaVgcLKa7eM1tg/live
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://i.pinimg.com/736x/96/b8/06/96b80619e11558dbffb3dcec5cd4d8bf.jpg",Rico The Series
 https://youtube.com/channel/UCHzkGRP2y-3QJQWzVkHNGgg/live
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="1016" tvg-chno="1016" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p0cxw253.jpg",BBC Kids
-https://jmp2.uk/sam-CA800001ZX.m3u8
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png",AlHiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png",Islam Channel
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://www.emanchannel.tv/app/themes/emanchannel/icons/logo.svg",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
