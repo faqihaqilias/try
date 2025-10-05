@@ -1,0 +1,146 @@
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://web.archive.org/web/20200511110222im_/http://aqsatv.ps/style/atyaf/assets/images/logo.png",Aqsa TV
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s120-c-k-c0x00ffffff-no-rj",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/3fbjZ6CAJl7Y7ii8qo0C4VEd_zcsC3-zrB0Nw5MW--VZmga15wtwwTBmePBRAPl3vCSFRoQq1Q=s120-c-k-c0x00ffffff-no-rj",AlJazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",501 Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/BERNAMA2008.png/revision/latest?cb=20231218101320",BERNAMA TV
+
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji
+https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://makkahlive.net/images/makkah-live_s_1makkah-live_s.jpg",Makkah Live
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://makkahlive.net/images/madinah-live_s_1madinah-live_s.jpg",Madina Live
+
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://makkahlive.net/images/masjid-al-aqsa-live_s_1masjid-al-aqsa-live_s.jpg",Al-Aqsa Live
+
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://raw.githubusercontent.com/kuickcount/jquery/main/ikim.webp",TV IKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://ikimfm.my/wp-content/uploads/2024/01/logo-ikimfm-2024-120x40.png",IKIM FM
+https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets.radioactive.sg/org-bernama/283fd16b-9085-4526-90ad-fdcf2213b064-app_Bernama%28new%29_logo_W750xH750.png",Bernama Radio
+https://bernama.rastream.com/bernama-bernama.web.hls/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/perlis.png",Perlis FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC_SC
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/rtm-perak-fm.png",Perak FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC_SC
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era FM
+https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01_v2.jpg",Hot FM
+https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/hitz.png",HITZ FM
+https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
+http://stream.rcs.revma.com/q17aka9mtd3vv
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",Kool 101
+http://stream.rcs.revma.com/3930238mtd3vv
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://nasionalfm.rtm.gov.my/storage/app/uploads/public/610/365/b39/610365b3953b8749236902.png",Nasional FM
+https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png",Traxx FM
+https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://radioklasik.rtm.gov.my/storage/app/uploads/public/610/365/877/610365877cb69073862261.png",Radio Klasik
+https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
+http://stream.rcs.revma.com/z56xa78mtd3vv
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",Manis FM
+https://n01.rcs.revma.com/nzgauqq1v7zuv
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://sabahvfm.rtm.gov.my/storage/app/uploads/public/606/54c/ef6/60654cef61c96099935060.png",Sabah VFM
+https://28163.live.streamtheworld.com/SABAH_VFMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png",Sarawak FM
+https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://media2.fishtank.my/stations/zayan/square_md.jpg",Zayan FM
+https://stream-eu-a.rcs.revma.com/7ww2a4tbv4uvv/64_2yvaj6nnb69x02/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com:443/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/fite.jpg",Fite TV
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/jTxMSRGFNpUBzEyXONIRconVr53i4px8oXFKeQsuwHE4HATOVquvJ0zYDAFpLBSLWFN-P25d0g=s900-c-k-c0x00ffffff-no-rj",Fight TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877.m3u8?X-Plex-Token=8dbMxPLdzxXLCxk1xS8o
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
+https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/RahL5NAXXxPNfrqawoIk8Qj9pYiWh3Qo3XHg4nTh22Kv-xkeF6jvw8yFv_H0bgQZXy0nBB0UOA=s900-c-k-c0x00ffffff-no-rj",Banijay Science
+
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/rRQClFwu_mhrlnloVu8pkBBGfzg5PDCY7Eq85iEv0U0WRvfv6xwyqAo7W5LXjAIKHEqkF7HOU60=s900-c-k-c0x00ffffff-no-rj",Banijay History
+
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/gPq7R_IXCy7nUK6OWQIoCWqmh6vwWli31NlFKHSXkm1O_zTXd0DrYp9fogX5Y7ZQgig0qGDFiQ=s120-c-k-c0x00ffffff-no-rj",Nat Geo Wild
+
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p0cxw253.jpg",BBC Kids
+https://jmp2.uk/sam-CA800001ZX.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moonbug2ndLogo.png/220px-Moonbug2ndLogo.png",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/eY2_hVi5ltfgsCZi8dgYQSatyMTkZMPTjgJ8IMPd3V0n7G1p7Gw5nFLnND9_N43c-bskykx4vw=s900-c-k-c0x00ffffff-no-rj",Les' Copaque Production
+
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://i.pinimg.com/736x/96/b8/06/96b80619e11558dbffb3dcec5cd4d8bf.jpg",Rico The Series
+
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png",AlHiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png",Islam Channel
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://www.emanchannel.tv/app/themes/emanchannel/icons/logo.svg",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
