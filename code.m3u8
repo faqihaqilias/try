@@ -29,7 +29,7 @@ https://youtube.com/video/Kt7hKHlArl8/live
 https://youtube.com/channel/UC2l1w7FCuff2-h429sAUSXQ/live
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://raw.githubusercontent.com/kuickcount/jquery/main/ikim.webp",TV IKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 group-title="myFreeview: Radio" tvg-logo="https://ikimfm.my/wp-content/uploads/2024/01/logo-ikimfm-2024-120x40.png",IKIM FM
 https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
@@ -144,3 +144,4 @@ https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://www.emanchannel.tv/app/themes/emanchannel/icons/logo.svg",Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
