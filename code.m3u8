@@ -5,7 +5,7 @@ http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://yt3.googleusercontent.com/3fbjZ6CAJl7Y7ii8qo0C4VEd_zcsC3-zrB0Nw5MW--VZmga15wtwwTBmePBRAPl3vCSFRoQq1Q=s120-c-k-c0x00ffffff-no-rj",AlJazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",501 Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -144,4 +144,5 @@ https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio
 
 #EXTINF:-1 group-title="myFreeview: TV" tvg-logo="https://www.emanchannel.tv/app/themes/emanchannel/icons/logo.svg",Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
 
