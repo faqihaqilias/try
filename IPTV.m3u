@@ -15,8 +15,8 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11e
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 #EXTINF:0,Quran Kareem TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:0,Makkah Live
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:0,Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8&
 #EXTINF:0,Madina Live
 https://youtube.com/video/yWw0DWJQVtU/live
 #EXTINF:0,Al-Aqsa Live
@@ -101,6 +101,7 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
 #EXTINF:0,Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
 
 
 
