@@ -4,16 +4,9 @@ http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:0,BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:0,AlJazeera English
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+http://123.19.143.183:4022/udp/232.84.3.206:11158
 #EXTINF:0,501 Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:0,BERNAMA TV
-https://youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:0,Jom Ngaji
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 #EXTINF:0,Quran Kareem TV
@@ -24,6 +17,8 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8&
 https://youtube.com/video/yWw0DWJQVtU/live
 #EXTINF:0,Al-Aqsa Live
 https://youtube.com/channel/UC2l1w7FCuff2-h429sAUSXQ/live
+#EXTINF:0,TV9
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWd64T-nhX7rWpM-WMdYvDmxb2PGZF7Qh6cQyNJ6SfR2sHvbhR3h4wfxt9FhgN9NF6JyN5B5uWZZW5uHEG6aVhP2y_9HVzFQ--G2Tav-qci0gvKxBre2vZdkpU_4r5Hcv7IMR4sf04VpprgdyWKozFJA3FRQO0XhUS0nZHBqbtWpfKVnVx5PsD4dKgqmJUTzAz0qd0VAatnRzamWi1IqHvw.m3u8?u=1756878715
 #EXTINF:0,RodjaTV
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:0,TV IKIM
@@ -62,14 +57,14 @@ https://28163.live.streamtheworld.com/SABAH_VFMAAC.aac
 https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
 #EXTINF:0,Zayan FM
 https://stream-eu-a.rcs.revma.com/7ww2a4tbv4uvv/64_2yvaj6nnb69x02/playlist.m3u8
+#EXTINF:0,BERNAMA TV
+https://youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 #EXTINF:0,TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:0,TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:0,TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
-#EXTINF:0,TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 #EXTINF:0,Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:0,Unifi Sports 1
@@ -104,8 +99,8 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
 #EXTINF:0,Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
