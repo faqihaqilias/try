@@ -12,7 +12,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:0,Quran Kareem TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:0,Makkah Live
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:0,Madina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:0,Al-Aqsa Live
@@ -20,7 +20,7 @@ https://youtube.com/channel/UC2l1w7FCuff2-h429sAUSXQ/live
 #EXTINF:0,Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:0,TVAlhijrah
-https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1771833283-fbf592c36d8946fa9871d253702a8fa1-0-bde899f410f0fdb34e6dc0ae10d25b23&auth_key=1771833283-fbf592c36d8946fa9871d253702a8fa1-0-be4d04117cb6db595edadaf73277df47
+https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1771834084-adc46e92259c4f5c8cadb452b5fd37e1-0-6f71da156fd3bc80e05892e73a2bf7f0&auth_key=1771834084-adc46e92259c4f5c8cadb452b5fd37e1-0-cbb1e050c428f1be9f5a63ceb8404093
 #EXTINF:0,TV9
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWd64T-nhX7rWpM-WMdYvDmxb2PGZF7Qh6cQyNJ6SfR2sHvbhR3h4wfxt9FhgN9NF6JyN5B5uWZZW5uHEG6aVhP2y_9HVzFQ--G2Tav-qci0gvKxBre2vZdkpU_4r5Hcv7IMR4sf04VpprgdyWKozFJA3FRQO0XhUS0nZHBqbtWpfKVnVx5PsD4dKgqmJUTzAz0qd0VAatnRzamWi1IqHvw.m3u8?u=1756878715
 #EXTINF:0,RodjaTV
@@ -103,3 +103,4 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=657984.m3u8
 #EXTINF:0,Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
